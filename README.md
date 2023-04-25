@@ -9,10 +9,10 @@
 
 ### Languages and Tools:
 [![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
-<!-- [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) -->
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/0xalpha01230xalpha0123/)](https://github.com/0xalpha0123/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha01230xalpha0123/)
+<!-- [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) -->
 
 <!-- [![Solidity](https://github.com/0xalpha0123/0xalpha0123/blob/main/solidity.png)](https://github.com/0xalpha0123/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)

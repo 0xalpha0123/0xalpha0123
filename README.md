@@ -39,7 +39,6 @@
 [![Mongo](https://img.shields.io/badge/-MongoDB-f11077?style=flat&logo=mongodb&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ee99bb?style=flat&logo=postgresql&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 
-[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/0xalpha0123/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/0xalpha0123/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/0xalpha0123/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/0xalpha0123/)

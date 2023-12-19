@@ -8,10 +8,11 @@
 </h1> <br>
 
 ### Languages and Tools:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/0xalpha01230xalpha0123/)](https://github.com/0xalpha0123/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha01230xalpha0123/)
+[![C&C++&C#](https://img.shields.io/badge/-C%20&%20C++%20&$20C#-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha01230xalpha0123/)
+[![.Net](https://img.shields.io/badge/-.Net-6511d2?style=flat&logo=.net&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha01230xalpha0123/)
 <!-- [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) -->
 
 <!-- [![Solidity](https://github.com/0xalpha0123/0xalpha0123/blob/main/solidity.png)](https://github.com/0xalpha0123/)
@@ -22,7 +23,6 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 

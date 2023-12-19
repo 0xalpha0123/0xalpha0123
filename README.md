@@ -28,7 +28,14 @@
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
-[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
+[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![Next.JS](https://img.shields.io/badge/-NextJS-644482?style=flat&logo=nextdotjs&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![ASP.NET](https://img.shields.io/badge/-ASP.NET%20core-2291f1?style=flat&logo=.net&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![Umbraco](https://img.shields.io/badge/-Umbraco-ff1042?style=flat&logo=umbraco&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![Blazor](https://img.shields.io/badge/-Blazor-841132?style=flat&logo=blazor&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![Laravel](https://img.shields.io/badge/-Laravel-1188ee?style=flat&logo=laravel&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgnitor-aa33ae?style=flat&logo=codeigniter&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/0xalpha0123/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/0xalpha0123/)

@@ -24,7 +24,6 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-318144?style=flat&logo=tailwindcss&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
@@ -36,6 +35,9 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-1188ee?style=flat&logo=laravel&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgnitor-aa33ae?style=flat&logo=codeigniter&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![Mongo](https://img.shields.io/badge/-MongoDB-f11077?style=flat&logo=mongodb&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ee99bb?style=flat&logo=postgresql&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/0xalpha0123/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/0xalpha0123/)

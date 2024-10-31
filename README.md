@@ -1,4 +1,5 @@
 ### About Me:
+
 <h1 align="center" > <img src="https://avatars.githubusercontent.com/u/87886706?v=4" width="150px" style="border-radius:50%"alt="Literally Logo" />
  <br/>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -8,6 +9,7 @@
 </h1> <br>
 
 ### Languages and Tools:
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
@@ -18,15 +20,14 @@
 [![Solidity](https://github.com/0xalpha0123/0xalpha0123/blob/main/solidity.png)](https://github.com/0xalpha0123/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
- 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-318144?style=flat&logo=tailwindcss&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
+[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![Next.JS](https://img.shields.io/badge/-NextJS-644482?style=flat&logo=nextdotjs&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET%20core-2291f1?style=flat&logo=.net&logoColor=ffffff&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
@@ -53,13 +54,13 @@
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/0xalpha0123/)
 
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 <br />
 
---- 
+---
 
-  [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0xalpha0123&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/0xalpha0123)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0xalpha0123&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/0xalpha0123)
 
 ---
 
@@ -71,7 +72,13 @@
   </a>
 </p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 <!---
 0xalpha0123/0xalpha0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

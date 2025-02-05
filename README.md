@@ -57,7 +57,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/0xalpha0123/)](https://github.com/0xalpha0123/)
 <br />
-
+<!---
 ---
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0xalpha0123&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/0xalpha0123)

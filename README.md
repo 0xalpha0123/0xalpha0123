@@ -186,6 +186,16 @@
 
 ###
 
+<h4 align="left">🏆 Trophy</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=0xalpha0123&theme=dracula&column=5&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <h4 align="left">📊 Contributions</h4>
 
 ###
